@@ -1,6 +1,6 @@
 use std::time::Instant;
 
-fn main() {comp()}
+fn main() {}
 
 struct Coll {
     list: Vec<i32>
